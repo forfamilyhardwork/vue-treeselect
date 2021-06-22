@@ -1,0 +1,2 @@
+# vue-treeselect
+这是引用VueTreeselect插件然后自己修改了一些功能的源码，包括enter键、搜索的文本不存在再按下enter键的一些修复
